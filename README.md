@@ -1,1 +1,1 @@
-# full_adder_UVM_TB
+# half_adder_UVM_TB
